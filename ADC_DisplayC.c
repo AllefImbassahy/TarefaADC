@@ -17,7 +17,7 @@
 #define JOYSTICK_Y_PIN 26  // GPIO para eixo Y
 #define JOYSTICK_PB 22 // GPIO para botão do Joystick
 #define Botao_A 5 // GPIO para botão A
-#define dead_angle 75
+#define dead_angle 100
 
 
 ssd1306_t ssd; // Inicializa a estrutura do display
